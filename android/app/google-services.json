@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843698833141",
+    "firebase_url": "https://flutter-sanduiche.firebaseio.com",
+    "project_id": "flutter-sanduiche",
+    "storage_bucket": "flutter-sanduiche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843698833141:android:23e8e3c9dda71827b167bc",
+        "android_client_info": {
+          "package_name": "com.example.sanduiche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843698833141-7e0ebppchb64mei6fv3uotd37ku8h4qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRTcwQD7bZ1TA6lkssgvL6R9udaPYeKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843698833141-7e0ebppchb64mei6fv3uotd37ku8h4qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
